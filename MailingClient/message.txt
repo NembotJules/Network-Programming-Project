@@ -1,0 +1,2 @@
+Hi my friend i am doing some networking projects using python, and this is the first one.
+It's a Mailing Client. I am sending you this message just to test it.
