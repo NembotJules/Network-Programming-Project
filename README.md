@@ -12,3 +12,6 @@ A list of my Network Programming Projects made with Python
 
 <h1><b>DDOS</b></h1>
 <p> Surchage a particular device with requests. This is illegal so use it on your computer</p>
+
+<h1><b>Chat Room</b></h1>
+<p> A chat room with TCP/IP clients and a server using sockets and threading for real time communication</p>
